@@ -6,6 +6,7 @@ import ReactDOM from 'react-dom';
 import './assets/stylesheets/style.css'
 
 const baseURL = process.env.ENDPOINT;
+console.log(baseURL)
 
 /****** ADD YOUR CODE AFTER THIS LINE ******/
 
